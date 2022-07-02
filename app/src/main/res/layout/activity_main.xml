@@ -54,9 +54,10 @@
         android:inputType="textPassword"
         android:textAlignment="center"
         android:hint="@string/hintp"
+        android:textColorHint="@color/white"
          />
     <CheckBox
-        android:layout_gravity="center"
+
         style="@style/edittext"
         android:text="@string/remember"
 
