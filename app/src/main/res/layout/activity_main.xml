@@ -52,6 +52,7 @@
         android:id="@+id/pass"
         style="@style/edittext"
         android:inputType="textPassword"
+        android:textAlignment="center"
         android:hint="@string/hintp"
          />
     <CheckBox
@@ -60,6 +61,22 @@
         android:text="@string/remember"
 
         />
+    <Button
+        android:id="@+id/login"
+        style="@style/edittext"
+        android:text="Login"
+        android:fontFamily="cursive"
+        android:textColor="@color/white"
+        />
+
+    <Button
+        android:id="@+id/signup"
+        style="@style/edittext"
+        android:text="SignUp"
+        android:fontFamily="cursive"
+        android:textColor="@color/white"
+        />
+
 
 
 
