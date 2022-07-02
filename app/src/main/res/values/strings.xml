@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mr.Pizza</string>
+    <string name="welcome">Welcome to Mr. Pizza</string>
+    <string name="pass">Password</string>
+    <string name="user">Username</string>
+    <string name="hintp">password123</string>
+    <string name="remember">Remember Me</string>
+</resources>
